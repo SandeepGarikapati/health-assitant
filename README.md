@@ -46,3 +46,5 @@ Before you begin please make sure to install this prerequisities
 streamlit run app.py
 ```
 2. Open the link in any browser to see the results.
+
+## Usage
