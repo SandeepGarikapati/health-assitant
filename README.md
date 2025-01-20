@@ -31,13 +31,18 @@ Before you begin please make sure to install this prerequisities
 ### Installation
 1. Clone the repository
    ```
-   git clone https://github.com/SandeepGarikapati/CleanIndia.git
+   git clone https://github.com/SandeepGarikapati/health-assitant.git
 
    ```
 2. Install the Dependencies
    ```
-   npm install
-   # or
-   yarn install
-
+   pip install -r requirements.txt
+   
    ```
+
+### Running the Application
+1. Run the Streamlit app:
+```bash
+streamlit run app.py
+```
+2. Open the link in any browser to see the results.
