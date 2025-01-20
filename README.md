@@ -66,15 +66,19 @@ streamlit run app.py
 
 ## Results
 1. Diabetes
+
 ![Image stating Diabetes Prediction](images/result-1.png)
 
 2. Heart
+   
 ![Image stating Heart Prediction](images/result-2.png)
 
 3. Parkinsons
+   
 ![Image stating Parkinsons Prediction](images/result-3.png)
 
 4. Kidney
+   
 ![Image stating Kidney Prediction](images/result-4.png)
 
 
