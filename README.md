@@ -10,7 +10,7 @@ This web application predicts the likelihood of various health conditions, inclu
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
 - [Usage](#usage)
-- [Deployment](#deployment)
+- [Results](#results)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -63,3 +63,45 @@ streamlit run app.py
 4. Kidney Disease Prediction
 
 ![Image stating Kidney Disease Prediction](images/image-4.png)
+
+## Results
+1. Diabetes
+![Image stating Diabetes Prediction](images/result-1.png)
+
+2. Heart
+![Image stating Heart Prediction](images/result-2.png)
+
+3. Parkinsons
+![Image stating Parkinsons Prediction](images/result-3.png)
+
+4. Kidney
+![Image stating Kidney Prediction](images/result-4.png)
+
+
+## Technologies Used
+
+- Python
+- Streamlit
+- Scikit-learn
+- ML models (Logistic Regression,SVC,KNN, Decision Tree Clasifier, Random Forest Classifier, XGBoost Classifier)
+
+
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature/your-feature-name`).
+6. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for using Health Assistant, Stay Healthy, Stay Happy!
+
