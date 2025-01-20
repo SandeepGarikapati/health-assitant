@@ -15,5 +15,29 @@ This web application predicts the likelihood of various health conditions, inclu
 - [Contributing](#contributing)
 - [License](#license)
 
+## Features
+- **User-Friendly Interface**: A clean and intuitive UI for users to input their data and receive predictions.
+- **Multiple Disease Predictions**: Supports predictions for multiple diseases in one platform.
+- **Machine Learning Models**: Powered by well-trained ML models for accurate predictions.
 
+## Getting Started
 
+### Prerequisties
+Before you begin please make sure to install this prerequisities
+-Python (>3 version)
+-Jupyter Notebook or Google colab
+-Vs code or similar IDE'S
+
+### Installation
+1. Clone the repository
+   ```
+   git clone https://github.com/SandeepGarikapati/CleanIndia.git
+
+   ```
+2. Install the Dependencies
+   ```
+   npm install
+   # or
+   yarn install
+
+   ```
