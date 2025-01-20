@@ -48,3 +48,18 @@ streamlit run app.py
 2. Open the link in any browser to see the results.
 
 ## Usage
+1. Diabetes Prediction
+
+![Image stating Diabetes Prediction](images/image-1.png)
+
+2. Heart Disease Prediction
+   
+![Image stating Heart Prediction](images/image-2.png)
+
+3. Parkinsons Disease Prediction
+
+![Image stating Parkinsons Prediction](images/image-3.png)
+
+4. Kidney Disease Prediction
+
+![Image stating Kidney Disease Prediction](images/image-4.png)
