@@ -12,6 +12,7 @@ This web application predicts the likelihood of various health conditions, inclu
 - [Usage](#usage)
 - [Results](#results)
 - [Technologies Used](#technologies-used)
+- [Machine Learning Algorithms Used](#machine-learning-algorithms-used)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -89,6 +90,14 @@ streamlit run app.py
 - Scikit-learn
 - ML models (Logistic Regression,SVC,KNN, Decision Tree Clasifier, Random Forest Classifier, XGBoost Classifier)
 
+## Machine Learning Algorithms Used
+- **Logistic Regression**: Used for binary classification problems, providing probabilistic outputs.
+- **Support Vector Classifier (SVC)**: Effective in high-dimensional spaces, particularly for small datasets.
+- **K-Nearest Neighbors (KNN)**: A non-parametric algorithm that classifies data points based on proximity.
+- **Decision Tree Classifier**: A tree-based model that splits the dataset based on feature importance.
+- **Random Forest Classifier**: An ensemble model that improves accuracy by combining multiple decision trees.
+- **XGBoost Classifier**: A gradient boosting algorithm that enhances model performance with faster computation.
+- **Gradient Boosting Decision Tree (GBDT)**: A sequential ensemble method that minimizes prediction errors.
 
 ## Contributing
 
